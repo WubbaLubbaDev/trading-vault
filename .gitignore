@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/workspace*.json
+.trash/
+.DS_Store
+
+# macOS
+.DS_Store
+
+# Linux
+*~

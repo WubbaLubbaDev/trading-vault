@@ -1,0 +1,19 @@
+# Ledger
+
+**Last Updated:** 2026-06-03
+
+## Current Balances
+
+| Account | Amount (Rp) |
+|---------|-------------|
+| Trading Balance | 388,902 |
+| Invested Capital | 999,007 |
+
+## Transaction Ledger
+
+| Date | Type | TB Δ | New TB | Note |
+|------|------|-------|--------|------|
+| 2026-05-25 | Seed | +1,000,000 | 1,000,000 | Initial |
+| 2026-05-26 | BUY BBRI | -310,558 | 689,442 | 1 lot @ Rp 3,100 + fees |
+| 2026-06-03 | BUY BBRI | -300,540 | 388,902 | 1 lot @ Rp 3,000 + fees |
+
