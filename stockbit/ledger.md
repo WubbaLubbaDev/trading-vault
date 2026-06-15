@@ -6,8 +6,8 @@
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 607,316 |
-| Invested Capital | 1,051,602 |
+| Trading Balance | 306,776 |
+| Invested Capital | 1,352,142 |
 
 ## Transaction Ledger
 
