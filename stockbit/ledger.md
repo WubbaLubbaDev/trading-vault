@@ -20,5 +20,6 @@
 | 2026-06-11 | BUY ELSA | -59,106 | 442,936 | 1 lot @ Rp 590 |
 | 2026-06-12 | SELL ELSA | +62,325 | 505,261 | 1 lot @ Rp 625 |
 | 2026-06-15 | BUY MBMA | -52,595 | 452,666 | 1 lot @ Rp 525 |
-| 2026-06-16 | Interest | +154,650 | 607,316 | Bond interest received |
+| 2026-06-15 | BUY BBRI | -300,540 | 152,126 | 1 lot @ Rp 3,000 |
+| 2026-06-16 | Interest | +154,650 | 306,776 | Bond interest received |
 
