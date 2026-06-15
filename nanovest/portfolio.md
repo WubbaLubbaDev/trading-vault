@@ -1,6 +1,6 @@
 # 📊 US Stock Portfolio Tracker
 
-> **Last updated:** 15 Jun 2026  
+> **Last updated:** 9 Jun 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -69,25 +69,15 @@
 |---|---|
 | 0.0651092 | **100,158** |
 
-### **SPCX** — SpaceX (Space Exploration Technologies Corp)
-
-| # | Date | Shares | Price/Share | Transaction | Fee | Total Cost |
-|---|------|--------|-------------|-------------|-----|------------|
-| 1 | 15 Jun 2026 | 1 | 2,982,390 | 2,982,390 | 8,544 | 2,990,934 |
-
-| **Total Shares** | **Total Invested** |
-|---|---|
-| 1 | **2,990,934** |
-
 ---
 
 ## 📈 Summary
 
 | Metric | Value |
 |--------|-------|
-| **Total Invested (incl. fees)** | **4,929,490** |
-| **Total Transaction Fees** | 16,656 |
-| **Total Holdings** | 6 |
+| **Total Invested (incl. fees)** | **1,938,556** |
+| **Total Transaction Fees** | 8,112 |
+| **Total Holdings** | 5 |
 
 ---
 
@@ -110,5 +100,3 @@
 | 12 | 26 May 2026 | GLD buy #3 (100,052) | — | 100,052 | 903,497 |
 | 13 | 27 May 2026 | NVDA buy #5 (100,164) | — | 100,164 | **803,333** |
 | 14 | 9 Jun 2026 | NVDA buy #6 (741,889) | — | 741,889 | **61,443** |
-| 15 | 15 Jun 2026 | Cash top-up | 3,000,000 | — | **3,061,443** |
-| 16 | 15 Jun 2026 | SPCX buy #1 (2,990,934) | — | 2,990,934 | **70,509** |
