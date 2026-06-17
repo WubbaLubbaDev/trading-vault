@@ -1,13 +1,13 @@
 # Ledger
 
-**Last Updated:** 2026-06-15
+**Last Updated:** 2026-06-17
 
 ## Current Balances
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 306,776 |
-| Invested Capital | 1,352,142 |
+| Trading Balance | 360,625 |
+| Invested Capital | 1,299,547 |
 
 ## Transaction Ledger
 
@@ -22,4 +22,5 @@
 | 2026-06-15 | BUY MBMA | -52,595 | 452,666 | 1 lot @ Rp 525 |
 | 2026-06-15 | BUY BBRI | -300,540 | 152,126 | 1 lot @ Rp 3,000 |
 | 2026-06-15 | Interest | +154,650 | 306,776 | Bond interest received |
+| 2026-06-17 | SELL MBMA | +53,849 | 360,625 | 1 lot @ Rp 540 |
 
