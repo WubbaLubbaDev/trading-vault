@@ -6,8 +6,8 @@
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 303,522 |
-| Invested Capital | 1,356,650 |
+| Trading Balance | 303,523 |
+| Invested Capital | 1,356,649 |
 
 ## Transaction Ledger
 
@@ -23,5 +23,5 @@
 | 2026-06-15 | BUY BBRI | -300,540 | 152,126 | 1 lot @ Rp 3,000 |
 | 2026-06-15 | Interest | +154,650 | 306,776 | Bond interest received |
 | 2026-06-17 | SELL MBMA | +53,849 | 360,625 | 1 lot @ Rp 540 |
-| 2026-06-18 | BUY ELSA | -57,103 | 303,522 | 1 lot @ Rp 570 |
+| 2026-06-18 | BUY ELSA | -57,102 | 303,523 | 1 lot @ Rp 570 |
 
