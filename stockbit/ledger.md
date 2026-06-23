@@ -1,13 +1,13 @@
 # Ledger
 
-**Last Updated:** 2026-06-18
+**Last Updated:** 2026-06-23
 
 ## Current Balances
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 303,523 |
-| Invested Capital | 1,356,649 |
+| Trading Balance | 248,424 |
+| Invested Capital | 1,411,748 |
 
 ## Transaction Ledger
 
@@ -24,4 +24,5 @@
 | 2026-06-15 | Interest | +154,650 | 306,776 | Bond interest received |
 | 2026-06-17 | SELL MBMA | +53,849 | 360,625 | 1 lot @ Rp 540 |
 | 2026-06-18 | BUY ELSA | -57,102 | 303,523 | 1 lot @ Rp 570 |
+| 2026-06-23 | BUY ELSA | -55,099 | 248,424 | 1 lot @ Rp 550 |
 
