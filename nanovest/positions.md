@@ -1,6 +1,6 @@
 # 📊 US Stock Positions
 
-> **Last updated:** 9 Jun 2026  
+> **Last updated:** 27 Jun 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -57,6 +57,8 @@
 |---|---|
 | 0.3261190 | **1,237,810** |
 
+> 💵 **Dividend:** 27 Jun 2026 — IDR 532 received
+
 ---
 
 ### **NFLX** — Netflix, Inc.
@@ -76,5 +78,6 @@
 | Metric | Value |
 |--------|-------|
 | **Total Invested (incl. fees)** | **1,938,556** |
+| **Total Dividends Received** | 3,027 |
 | **Total Transaction Fees** | 8,112 |
 | **Total Holdings** | 5 |
