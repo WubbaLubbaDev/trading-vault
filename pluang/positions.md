@@ -21,3 +21,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$239.75** | **$239.75** |
+
+### **GLD** — SPDR Gold Shares
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-07-08 | 1 | $370.22 | $370.22 | $0.74 | $0.20 | $371.16 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 1 | **$371.16** | **$371.16** |
