@@ -1,12 +1,12 @@
 # Ledger
 
-**Last Updated:** 2026-07-10
+**Last Updated:** 2026-07-15
 
 ## Current Balances
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 287,988 |
+| Trading Balance | 871,263 |
 | Invested Capital | 1,580,051 |
 
 ## Transaction Ledger
@@ -28,4 +28,5 @@
 | 2026-07-06 | SELL ELSA | +114,678 | 363,102 | 2 lots @ Rp 575 |
 | 2026-07-08 | BUY BBRI | -280,504 | 82,598 | 1 lot @ Rp 2,800 |
 | 2026-07-10 | Interest | +205,390 | 287,988 | SBN interest received |
+| 2026-07-15 | Interest | +583,275 | 871,263 | SBN interest received |
 
