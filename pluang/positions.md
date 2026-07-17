@@ -23,3 +23,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$371.16** | **$371.16** |
+
+### **SCCO** — Southern Copper Corporation
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-07-17 | 1 | $175.11 | $175.11 | $0.35 | $0.15 | $175.61 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 1 | **$175.61** | **$175.61** |
