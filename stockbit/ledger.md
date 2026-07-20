@@ -6,7 +6,7 @@
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 10,850,613 |
+| Trading Balance | 850,613 |
 | Invested Capital | 1,580,051 |
 
 ## Transaction Ledger
@@ -21,6 +21,7 @@
 | 2026-06-12 | SELL ELSA | +62,325 | 505,261 | 1 lot @ Rp 625 |
 | 2026-06-15 | BUY MBMA | -52,595 | 452,666 | 1 lot @ Rp 525 |
 | 2026-06-15 | BUY BBRI | -300,540 | 152,126 | 1 lot @ Rp 3,000 |
+| 2026-06-15 | BUY SBN | 0 | 152,126 | Obligation |
 | 2026-06-15 | Interest | +154,650 | 306,776 | Obligation |
 | 2026-06-17 | SELL MBMA | +53,849 | 360,625 | 1 lot @ Rp 540 |
 | 2026-06-18 | BUY ELSA | -57,102 | 303,523 | 1 lot @ Rp 570 |
@@ -30,4 +31,5 @@
 | 2026-07-10 | Interest | +205,390 | 287,988 | Obligation |
 | 2026-07-15 | Interest | +583,275 | 871,263 | Obligation |
 | 2026-07-15 | Proceeds | +9,979,350 | 10,850,613 | Obligation maturity |
+| 2026-07-15 | BUY Obligation | -10,000,000 | 850,613 | Obligation purchase |
 
