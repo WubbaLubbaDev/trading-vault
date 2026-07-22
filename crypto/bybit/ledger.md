@@ -12,7 +12,7 @@
 
 | Date | Type | Amount (IDR) | Fee | Notes |
 |------|------|--------------|-----|-------|
-| 2026-07-22 | Transfer In | +500,000 | — | Main account → Subaccount (Funding) |
+| 2026-07-22 | Transfer In | +500,000 | 3,000 | Main account → Subaccount (Funding). Fee deducted from main account side. |
 | 2026-07-22 | Internal Transfer | — | — | Funding → Unified Trading Account |
 
 ---
