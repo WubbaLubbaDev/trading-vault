@@ -6,8 +6,8 @@
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 850,613 |
-| Invested Capital | 1,580,051 |
+| Trading Balance | 550,073 |
+| Invested Capital | 1,880,591 |
 
 ## Transaction Ledger
 
@@ -32,4 +32,5 @@
 | 2026-07-15 | Interest | +583,275 | 871,263 | Obligation |
 | 2026-07-15 | Proceeds | +9,979,350 | 10,850,613 | Obligation maturity |
 | 2026-07-15 | BUY Obligation | -10,000,000 | 850,613 | Obligation purchase |
+| 2026-07-23 | BUY BBRI | -300,540 | 550,073 | 1 lot @ Rp 3,000 |
 
