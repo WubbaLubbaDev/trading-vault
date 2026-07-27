@@ -4,8 +4,8 @@
 
 | Currency | Balance | Last Updated |
 |----------|---------|--------------|
-| IDR (Unified Trading) | 399,987 | 2026-07-23 |
-| ETH (Unified Trading) | 0.00289 | 2026-07-23 |
+| IDR (Unified Trading) | 400,087 | 2026-07-25 |
+| ETH (Unified Trading) | 0.00289 | 2026-07-25 |
 
 ---
 
