@@ -15,7 +15,7 @@
 |------|------|--------------|-----|-------|
 | 2026-07-22 | Transfer In | +500,000 | 3,000 | Main account → Subaccount (Funding). Fee deducted from main account side. |
 | 2026-07-22 | Internal Transfer | — | — | Funding → Unified Trading Account |
-| 2026-07-23 | Buy ETHIDR | 99,913 | 0.00000289 ETH | 0.00289 ETH @ 34,572,010, Entry Price: 34,572,010, Fee paid in ETH |
+| 2026-07-23 | Buy ETHIDR | 99,913 | 0.000003179 ETH (0.00000289 + 0.000000289 CFX) | 0.00289 ETH @ 34,572,010, Entry Price: 34,572,010, Fee paid in ETH |
 
 ---
 
