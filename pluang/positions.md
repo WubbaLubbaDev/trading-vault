@@ -25,6 +25,16 @@
 |---|---|---|
 | 1 | **$371.16** | **$371.16** |
 
+### **ORCL** — Oracle Corp
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-07-29 | 1 | $118.19 | $118.19 | $0.24 | $0.11 | $118.54 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 1 | **$118.54** | **$118.54** |
+
 ### **NOW** — ServiceNow Inc
 
 | # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
