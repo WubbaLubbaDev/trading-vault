@@ -9,7 +9,7 @@
 
 | # | Date | Pair | Qty | Entry | Current | U-P&L | U-P&L % | Days |
 |---|------|------|-----|-------|---------|-------|---------|------|
-| 1 | 2026-07-24 | ETH/IDR | 0.00288682 | 34,572,010 | 34,400,000 | -497 | -0.50% | 6.3 |
+| 1 | 2026-07-24 | ETH/IDR | 0.00288682 | 34,572,010 | 34,400,000 | -497 | -0.50% | 7.3 |
 
 ## Performance Summary
 
@@ -21,7 +21,7 @@
 | Win Rate | — |
 | Avg Win | — |
 | Avg Loss | — |
-| Profit Factor | ∞ |
+| Profit Factor | — |
 | Total Net P&L | +0 IDR |
 | Total Fees | 0 IDR |
 | Biggest Win | — |
