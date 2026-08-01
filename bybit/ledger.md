@@ -2,39 +2,27 @@
 
 ## Wallet Summary
 
-| Currency | Balance | Last Updated |
-|----------|---------|--------------|
-| IDR (Unified Trading) | 400,087 | 2026-07-25 |
-| ETH (Unified Trading) | 0.00288682 | 2026-07-25 |
-
----
+| Date | ETH Balance | IDR Balance | Total Equity (USD) |
+|------|------------|-------------|---------------------|
+| 2026-08-01 | 0.00586354 | — | ~10.95 |
 
 ## Transaction Ledger
 
-| Date | Type | Amount (IDR) | Fee | Notes |
-|------|------|--------------|-----|-------|
-| 2026-07-22 | Transfer In | +500,000 | 3,000 | Main account → Subaccount (Funding). Fee deducted from main account side. |
-| 2026-07-22 | Internal Transfer | — | — | Funding → Unified Trading Account |
-| 2026-07-23 | Buy ETHIDR | 99,913 | 0.000003179 ETH (0.00000289 + 0.000000289 CFX) | 0.00288682 ETH received @ 34,572,010, Entry Price: 34,572,010, Fee paid in ETH |
-
----
+| # | Date | Type | Pair | Side | Qty | Price | Value (IDR) | Fee | Status |
+|---|------|------|------|------|-----|-------|-------------|-----|--------|
+| 1 | 2026-07-23 | Spot | ETH/IDR | Buy | 0.00289 | 34,572,010 | 99,913 | 100 IDR | Filled |
+| 2 | 2026-08-01 | Spot | ETH/IDR | Buy | 0.00298 | 33,980,000 | 101,260.40 | 0.000003278 ETH | Filled |
 
 ## IDR Cash Flow
 
 | Date | Description | In | Out | Balance |
-|------|-------------|----|-----|---------|
-| 2026-07-22 | Transfer from Main Account | 500,000 | — | 500,000 |
-| 2026-07-22 | Move to Unified Trading | — | 500,000 | 0 |
-| 2026-07-22 | Received in Unified Trading | 500,000 | — | 500,000 |
-| 2026-07-23 | Buy 0.00288682 ETH @ 34,572,010 | — | 99,913 | 400,087 |
-
----
+|------|-------------|-----|-----|---------|
+| 2026-07-23 | ETH buy (0.00289 @ 34,572,010) | — | 100,013 | — |
+| 2026-08-01 | ETH buy (0.00298 @ 33,980,000) | — | 101,260.40 | — |
 
 ## Notes
 
-- **Account type:** Standard Subaccount on bybit.id
-- **API endpoint:** `api.bybit.id`
-- **Trading:** Spot only (no leverage/derivatives on bybit.id)
-- **Fees:** 0.10% maker / 0.20% taker on IDR pairs
-- **IP whitelisted:** 43.128.118.178
-- **Fee currency:** Bybit deducts fees in the base coin (ETH), not IDR. Always pull actual fill from order history.
+- Account: Standard Subaccount (Unified Trading)
+- Fee: 0.10% maker on IDR pairs
+- Transfer fee: 3,000 IDR (main → sub)
+- API endpoint: api.bybit.id
