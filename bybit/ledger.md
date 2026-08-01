@@ -8,21 +8,21 @@
 
 ## Transaction Ledger
 
-| # | Date | Type | Pair | Side | Qty | Price | Value (IDR) | Fee | Status |
-|---|------|------|------|------|-----|-------|-------------|-----|--------|
-| 1 | 2026-07-23 | Spot | ETH/IDR | Buy | 0.00289 | 34,572,010 | 99,913 | 100 IDR | Filled |
-| 2 | 2026-08-01 | Spot | ETH/IDR | Buy | 0.00298 | 33,980,000 | 101,260.40 | 0.000003278 ETH | Filled |
+| # | Date | Order ID | Type | Pair | Side | Qty | Price | Value (IDR) | Fee | Status |
+|---|------|----------|------|------|------|-----|-------|-------------|-----|--------|
+| 1 | 2026-07-23 | 2265698707540548608 | Spot | ETH/IDR | Buy | 0.00289 | 34,572,010.20 | 99,913.11 | 0.000003179 ETH | Filled |
+| 2 | 2026-08-01 | 2269645983921216512 | Spot | ETH/IDR | Buy | 0.00298 | 33,980,000 | 101,260.40 | 0.000003278 ETH | Filled |
 
 ## IDR Cash Flow
 
 | Date | Description | In | Out | Balance |
 |------|-------------|-----|-----|---------|
-| 2026-07-23 | ETH buy (0.00289 @ 34,572,010) | — | 100,013 | — |
+| 2026-07-23 | ETH buy (0.00289 @ 34,572,010.20) | — | 99,913.11 | — |
 | 2026-08-01 | ETH buy (0.00298 @ 33,980,000) | — | 101,260.40 | — |
 
 ## Notes
 
 - Account: Standard Subaccount (Unified Trading)
-- Fee: 0.10% maker on IDR pairs
+- Fee: 0.10% maker + CFX on IDR pairs
 - Transfer fee: 3,000 IDR (main → sub)
 - API endpoint: api.bybit.id
