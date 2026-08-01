@@ -2,9 +2,9 @@
 
 ## Wallet Summary
 
-| Date | ETH Balance | IDR Balance | Total Equity (USD) |
-|------|------------|-------------|---------------------|
-| 2026-08-01 | 0.00586354 | 298,826.490522 | 27.52554073 |
+| Date | ETH Balance | IDR Balance |
+|------|------------|-------------|
+| 2026-08-01 | 0.00586354 | 298,826.490522 |
 
 ## Transaction Ledger
 
