@@ -25,5 +25,4 @@
 
 - Account: Standard Subaccount (Unified Trading)
 - Fee: 0.10% maker + CFX on IDR pairs
-- Transfer fee: 3,000 IDR (main → sub)
 - API endpoint: api.bybit.id
