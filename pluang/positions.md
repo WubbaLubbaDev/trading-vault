@@ -44,3 +44,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$100.91** | **$100.91** |
+
+### **COIN** — Coinbase Global, Inc.
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-08-06 | 1 | $146.60 | $146.60 | $0.29 | $0.12 | $147.01 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 1 | **$147.01** | **$147.01** |
