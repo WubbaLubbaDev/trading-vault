@@ -54,3 +54,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$147.01** | **$147.01** |
+
+### **BIDU** — Baidu, Inc. Sponsored ADR Class A
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-08-06 | 1 | $107.89 | $107.89 | $0.22 | $0.09 | $108.20 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 1 | **$108.20** | **$108.20** |
