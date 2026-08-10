@@ -1,6 +1,6 @@
 # 💰 Cash Ledger
 
-> **Last updated:** 7 Aug 2026  
+> **Last updated:** 8 Aug 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -26,3 +26,4 @@
 | 16 | 24 Jun 2026 | VYMI dividend tax | — | 356 | 63,582 |
 | 17 | 27 Jun 2026 | NVDA dividend | 532 | — | 64,114 |
 | 18 | 7 Aug 2026 | Cash top-up | 5,000,000 | — | **5,064,114** |
+| 19 | 8 Aug 2026 | GLD buy #4 (1,134,729) | — | 1,134,729 | **3,929,385** |
