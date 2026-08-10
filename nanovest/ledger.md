@@ -1,6 +1,6 @@
 # 💰 Cash Ledger
 
-> **Last updated:** 8 Aug 2026  
+> **Last updated:** 10 Aug 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -27,3 +27,4 @@
 | 17 | 27 Jun 2026 | NVDA dividend | 532 | — | 64,114 |
 | 18 | 7 Aug 2026 | Cash top-up | 5,000,000 | — | **5,064,114** |
 | 19 | 8 Aug 2026 | GLD buy #4 (1,134,729) | — | 1,134,729 | **3,929,385** |
+| 20 | 10 Aug 2026 | NFLX buy #2 (708,625) | — | 708,625 | **3,220,760** |
