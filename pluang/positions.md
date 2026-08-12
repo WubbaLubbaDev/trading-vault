@@ -64,13 +64,3 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$108.20** | **$108.20** |
-
-### **SE** — Sea Limited Sponsored ADR Class A
-
-| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
-|---|------|--------|-----------------|------------|-----|-----|------------|
-| 1 | 2026-08-10 | 2 | $113.95 | $227.90 | $0.46 | $0.17 | $228.53 |
-
-| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
-|---|---|---|---|
-| 2 | **$228.53** | **$114.27** |
