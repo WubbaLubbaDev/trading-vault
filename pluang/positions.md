@@ -35,15 +35,15 @@
 |---|---|---|
 | 1 | **$118.54** | **$118.54** |
 
-### **NOW** — ServiceNow Inc
+### **NOW** — ServiceNow Inc *(closed — sold 2026-08-12)*
 
 | # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
 |---|------|--------|-----------------|------------|-----|-----|------------|
 | 1 | 2026-07-22 | 1 | $100.62 | $100.62 | $0.20 | $0.09 | $100.91 |
 
-| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
-|---|---|---|
-| 1 | **$100.91** | **$100.91** |
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** | **Realized** |
+|---|---|---|---|
+| 1 | **$100.91** | **$100.91** | **+$23.31** |
 
 ### **COIN** — Coinbase Global, Inc.
 
