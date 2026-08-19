@@ -1,13 +1,13 @@
 # Ledger
 
-**Last Updated:** 2026-08-13
+**Last Updated:** 2026-08-19
 
 ## Current Balances
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 449,915 |
-| Invested Capital | 2,186,140 |
+| Trading Balance | 990,993 |
+| Invested Capital | 1,880,591 |
 
 ## Transaction Ledger
 
@@ -35,4 +35,10 @@
 | 2026-07-23 | BUY BBRI | -300,540 | 550,073 | 1 lot @ Rp 3,000 |
 | 2026-08-10 | Interest | +205,391 | 755,464 | Obligation |
 | 2026-08-13 | BUY ANTM | -305,549 | 449,915 | 1 lot @ Rp 3,050 |
+| 2026-08-18 | Interest | +4,800 | 454,715 | Obligation |
+| 2026-08-18 | Interest | +138,046 | 592,761 | Obligation |
+| 2026-08-18 | Interest | +43,497 | 636,258 | Obligation |
+| 2026-08-18 | Interest | +40,878 | 677,136 | Obligation |
+| 2026-08-18 | Interest | +4,725 | 681,861 | Obligation |
+| 2026-08-19 | SELL ANTM | +309,132 | 990,993 | 1 lot @ Rp 3,100, realized +3,583 (+1.17%) |
 
