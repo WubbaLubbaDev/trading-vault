@@ -1,6 +1,6 @@
 # Triv Ledger
 
-**Last Updated:** 2026-08-16
+**Last Updated:** 2026-08-19
 
 ## Wallet Summary
 
@@ -8,6 +8,9 @@
 |------|-------------|-------------|-------------|
 | 2026-08-15 | 0.845064 | 49 | 107,103 |
 | 2026-08-16 | 0.8471062269 | 49 | 107,103 |
+| 2026-08-17 | 0.84910649951 | 49 | 107,103 |
+| 2026-08-18 | 0.85116718275 | 49 | 107,103 |
+| 2026-08-19 | 0.85324352982 | 49 | 107,103 |
 
 ## Transaction Ledger
 
@@ -15,6 +18,9 @@
 |---|------|------|------|------|-----|-------|-------------|---------|----------|--------|
 | 1 | 2026-08-15 | Spot | USDT/IDR | Buy | 49.845064 | 17,877 | 891,075 | 1,875 | 0 | Filled |
 | 2 | 2026-08-16 | Staking Reward | USDT | — | 0.0020422269 | 0 | 0 | 0 | 0 | Credited |
+| 3 | 2026-08-17 | Staking Reward | USDT | — | 0.00200027261 | 0 | 0 | 0 | 0 | Credited |
+| 4 | 2026-08-18 | Staking Reward | USDT | — | 0.00206068324 | 0 | 0 | 0 | 0 | Credited |
+| 5 | 2026-08-19 | Staking Reward | USDT | — | 0.00207634707 | 0 | 0 | 0 | 0 | Credited |
 
 ## IDR Cash Flow
 
@@ -29,4 +35,4 @@
 - Fees: Tax Fee (Indonesian crypto tax) + Triv Fee (exchange fee)
 - Amount debited (892,950) = clean value (891,075) + tax fee (1,875)
 - Staking: 49 USDT locked
-- Staking reward: 0.0020422269 USDT credited 2026-08-16 (zero cost basis)
+- Staking rewards credited daily (zero cost basis)
