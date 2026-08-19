@@ -1,6 +1,6 @@
 # 💰 Cash Ledger
 
-> **Last updated:** 10 Aug 2026  
+> **Last updated:** 14 Aug 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -28,3 +28,4 @@
 | 18 | 7 Aug 2026 | Cash top-up | 5,000,000 | — | **5,064,114** |
 | 19 | 8 Aug 2026 | GLD buy #4 (1,138,135) | — | 1,138,135 | **3,925,979** |
 | 20 | 10 Aug 2026 | NFLX buy #2 (710,751) | — | 710,751 | **3,215,228** |
+| 21 | 14 Aug 2026 | AAPL dividend | 177 | — | 3,215,405 |

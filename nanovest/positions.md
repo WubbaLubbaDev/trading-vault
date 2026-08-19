@@ -1,6 +1,6 @@
 # 📊 US Stock Positions
 
-> **Last updated:** 10 Aug 2026  
+> **Last updated:** 14 Aug 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -16,6 +16,8 @@
 | **Total Shares** | **Total Invested** |
 |---|---|
 | 0.0189493 | **100,094** |
+
+> 💵 **Dividend:** 14 Aug 2026 — IDR 177 received
 
 ### **GLD** — SPDR Gold Trust
 
@@ -80,6 +82,6 @@
 | Metric | Value |
 |--------|-------|
 | **Total Invested (incl. fees)** | **3,787,442** |
-| **Total Dividends Received** | 3,027 |
+| **Total Dividends Received** | 3,204 |
 | **Total Transaction Fees** | 14,000 |
 | **Total Holdings** | 5 |
