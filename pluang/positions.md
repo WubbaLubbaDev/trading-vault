@@ -23,13 +23,3 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$344.61** | **$344.61** |
-
-### **MSTR** — MicroStrategy Incorporated (Strategy)
-
-| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
-|---|------|--------|-----------------|------------|-----|-----|------------|
-| 1 | 2026-08-20 | 5 | $108.05 | $540.25 | $1.08 | $0.24 | $541.57 |
-
-| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
-|---|---|---|
-| 5 | **$541.57** | **$108.31** |
