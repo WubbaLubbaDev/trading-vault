@@ -23,3 +23,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$344.61** | **$344.61** |
+
+### **FCX** — Freeport-McMoRan Inc.
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-08-26 | 15 | $79.1474 | $1,187.21 | $2.37 | $0.38 | $1,189.97 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 15 | **$1,189.97** | **$79.33** |
