@@ -1,13 +1,13 @@
 # Ledger
 
-**Last Updated:** 2026-08-19
+**Last Updated:** 2026-08-31
 
 ## Current Balances
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 990,993 |
-| Invested Capital | 1,880,591 |
+| Trading Balance | 680,435 |
+| Invested Capital | 2,191,149 |
 
 ## Transaction Ledger
 
@@ -41,4 +41,5 @@
 | 2026-08-18 | Interest | +40,878 | 677,136 | Obligation |
 | 2026-08-18 | Interest | +4,725 | 681,861 | Obligation |
 | 2026-08-19 | SELL ANTM | +309,132 | 990,993 | 1 lot @ Rp 3,100, realized +3,583 (+1.17%) |
+| 2026-08-31 | BUY ANTM | -310,558 | 680,435 | 1 lot @ Rp 3,100 |
 
