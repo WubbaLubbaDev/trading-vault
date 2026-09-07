@@ -1,6 +1,6 @@
 # 📊 US Stock Positions
 
-> **Last updated:** 14 Aug 2026  
+> **Last updated:** 4 Sep 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -12,10 +12,11 @@
 | # | Date | Shares | Price/Share | Transaction | Fee | Total Cost |
 |---|------|--------|-------------|-------------|-----|------------|
 | 1 | 14 May 2026 | 0.0189493 | 5,282,199 | 99,618 | 476 | 100,094 |
+| 2 | 4 Sep 2026 | 0.1810507 | 5,783,209 | 1,047,054 | 3,319 | 1,050,373 |
 
 | **Total Shares** | **Total Invested** |
 |---|---|
-| 0.0189493 | **100,094** |
+| 0.2000000 | **1,150,467** |
 
 > 💵 **Dividend:** 14 Aug 2026 — IDR 177 received
 
@@ -81,7 +82,7 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Invested (incl. fees)** | **3,787,442** |
+| **Total Invested (incl. fees)** | **4,837,815** |
 | **Total Dividends Received** | 3,204 |
-| **Total Transaction Fees** | 14,000 |
+| **Total Transaction Fees** | 17,319 |
 | **Total Holdings** | 5 |
