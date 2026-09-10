@@ -33,3 +33,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 15 | **$1,189.97** | **$79.33** |
+
+### **QCOM** — QUALCOMM Incorporated
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-09-09 | 5 | $173.80 | $869.00 | $1.74 | $0.31 | $871.05 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 5 | **$871.05** | **$174.21** |
