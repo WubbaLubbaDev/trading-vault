@@ -6,8 +6,8 @@
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 497,397 |
-| Invested Capital | 2,603,890.59 |
+| Trading Balance | 602,103 |
+| Invested Capital | 2,501,707 |
 
 ## Transaction Ledger
 
@@ -47,4 +47,5 @@
 | 2026-09-10 | BUY MDKA | -310,558 | 489,588 | 1 lot @ Rp 3,100 |
 | 2026-09-11 | BUY AMMN | -470,846 | 18,742 | 1 lot @ Rp 4,700 |
 | 2026-09-11 | SELL AMMN | +478,655 | 497,397 | 1 lot @ Rp 4,800, realized +7,809 (+1.66%) |
+| 2026-09-11 | SELL BUMI | +104,706 | 602,103 | 5 lots @ Rp 210, realized +2,522.41 (+2.47%) |
 
