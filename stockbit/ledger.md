@@ -6,8 +6,8 @@
 
 | Account | Amount (Rp) |
 |---------|-------------|
-| Trading Balance | 800,146 |
-| Invested Capital | 2,293,332.59 |
+| Trading Balance | 489,588 |
+| Invested Capital | 2,603,890.59 |
 
 ## Transaction Ledger
 
@@ -44,4 +44,5 @@
 | 2026-08-31 | BUY ANTM | -310,558 | 680,435 | 1 lot @ Rp 3,100 |
 | 2026-09-02 | BUY BUMI | -102,183.59 | 578,251 | 5 lots @ Rp 204 |
 | 2026-09-10 | Interest | +221,895 | 800,146 | Obligation |
+| 2026-09-10 | BUY MDKA | -310,558 | 489,588 | 1 lot @ Rp 3,100 |
 
