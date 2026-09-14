@@ -17,8 +17,8 @@
 | Closed Trades | 12 |
 | Wins | 11 |
 | Losses | 1 |
-| Gross Gains | +$265.01 |
-| Gross Losses | -$38.20 |
+| Net Gains | +$265.01 |
+| Net Losses | -$38.20 |
 | Win Rate | 91.7% |
 
 ---
