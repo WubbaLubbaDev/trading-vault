@@ -9,6 +9,20 @@
 
 ---
 
+## Trading Summary
+
+| Metric | Value |
+|--------|-------|
+| Total Realized P/L | **+$226.81** |
+| Closed Trades | 12 |
+| Wins | 11 |
+| Losses | 1 |
+| Gross Gains | +$265.01 |
+| Gross Losses | -$38.20 |
+| Win Rate | 91.7% |
+
+---
+
 ## Transaction Ledger
 
 | Date | Type | Amount (IDR) | Amount (USD) | Rate | Fee | Tax | Realized P/L | Notes |
