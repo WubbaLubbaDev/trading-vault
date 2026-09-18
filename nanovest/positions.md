@@ -1,6 +1,6 @@
 # 📊 US Stock Positions
 
-> **Last updated:** 4 Sep 2026  
+> **Last updated:** 17 Sep 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -28,10 +28,11 @@
 | 2 | 19 May 2026 | 0.0135518 | 7,383,718 | 99,585 | 478 | 100,063 |
 | 3 | 26 May 2026 | 0.0133825 | 7,476,354 | 99,573 | 479 | 100,052 |
 | 4 | 8 Aug 2026 | 0.1595881 | 7,109,243 | 1,134,552 | 3,583 | 1,138,135 |
+| 5 | 17 Sep 2026 | 0.3 | 6,962,632 | 2,088,790 | 6,444 | 2,095,234 |
 
 | **Total Shares** | **Total Invested** |
 |---|---|
-| 0.2000000 | **1,438,373** |
+| 0.5000000 | **3,533,607** |
 
 ### **VYMI** — Vanguard Intl High Dividend Yield ETF
 
@@ -82,7 +83,7 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Invested (incl. fees)** | **4,837,815** |
+| **Total Invested (incl. fees)** | **6,933,049** |
 | **Total Dividends Received** | 3,204 |
-| **Total Transaction Fees** | 17,319 |
+| **Total Transaction Fees** | 23,763 |
 | **Total Holdings** | 5 |
