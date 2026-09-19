@@ -6,7 +6,7 @@
 
 | Date | USDT Balance | Staked USDT | IDR Balance |
 |------|-------------|-------------|-------------|
-| 2026-09-19 | 285.74048908225 | 49 | 11,079 |
+| 2026-09-19 | 0.74048908225 | 334 | 11,079 |
 
 ## Transaction Ledger
 
@@ -29,6 +29,6 @@
 - Exchange: Triv (Indonesian crypto)
 - Fees: Tax Fee (Indonesian crypto tax) + Triv Fee (exchange fee)
 - Amount debited (892,950) = clean value (891,075) + tax fee (1,875)
-- Staking: 49 USDT locked
+- Staking: 334 USDT locked
 - Staking rewards credited daily (zero cost basis) — folded into balance, not logged as individual rows
 - 2026-09-19 buy: 0.0013424628 USDT reward credited (zero cost basis), folded into available balance
