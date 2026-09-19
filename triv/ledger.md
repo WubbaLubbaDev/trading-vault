@@ -6,13 +6,14 @@
 
 | Date | USDT Balance | Staked USDT | IDR Balance |
 |------|-------------|-------------|-------------|
-| 2026-09-19 | 0.91170561945 | 49 | 5,107,599 |
+| 2026-09-19 | 285.74048908225 | 49 | 11,079 |
 
 ## Transaction Ledger
 
 | # | Date | Type | Pair | Side | Qty | Price | Value (IDR) | Tax Fee | Triv Fee | Status |
 |---|------|------|------|------|-----|-------|-------------|---------|----------|--------|
 | 1 | 2026-08-15 | Spot | USDT/IDR | Buy | 49.845064 | 17,877 | 891,075 | 1,875 | 0 | Filled |
+| 2 | 2026-09-19 | Spot | USDT/IDR | Buy | 284.827441 | 17,855.7866 | 5,085,818 | 10,702 | 0 | Filled |
 
 ## IDR Cash Flow
 
@@ -21,6 +22,7 @@
 | 2026-08-15 | Top-up | 1,000,053 | — | 1,000,053 |
 | 2026-08-15 | USDT buy (49.845064 @ 17,877) | — | 892,950 | 107,103 |
 | 2026-09-19 | Top-up | 5,000,496 | — | 5,107,599 |
+| 2026-09-19 | USDT buy (284.827441 @ 17,855.7866) | — | 5,096,520 | 11,079 |
 
 ## Notes
 
@@ -29,3 +31,4 @@
 - Amount debited (892,950) = clean value (891,075) + tax fee (1,875)
 - Staking: 49 USDT locked
 - Staking rewards credited daily (zero cost basis) — folded into balance, not logged as individual rows
+- 2026-09-19 buy: 0.0013424628 USDT reward credited (zero cost basis), folded into available balance
