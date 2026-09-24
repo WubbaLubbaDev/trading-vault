@@ -24,3 +24,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 30 | **$2,227.39** | **$74.25** |
+
+### **GDX** — VanEck Gold Miners ETF
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-09-24 | 2 | $92.00 | $184.00 | $0.37 | $0.15 | $184.52 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 2 | **$184.52** | **$92.26** |
