@@ -27,18 +27,6 @@
 | **Rp 310,558** | **Rp 3,105.58** | **100** |
 
 
-## MDKA — Merdeka Copper Gold Tbk PT
-
-| # | Entry Date | Entry Price | Shares | Cost |
-|---|------------|-------------|--------|--------|
-| 1 | 2026-09-10 | 3,100 | 100 | 310,558 |
-| 2 | 2026-09-14 | 2,850 | 100 | 285,513 |
-
-| **Total Cost** | **Avg Cost** | **Shares** |
-|----------------|-------------|-----------|
-| **Rp 596,071** | **Rp 2,980.36** | **200** |
-
-
 ## BUMI — Bumi Resources Tbk PT
 
 | # | Entry Date | Entry Price | Shares | Cost |
