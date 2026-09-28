@@ -1,6 +1,6 @@
 # 📊 US Stock Positions
 
-> **Last updated:** 17 Sep 2026  
+> **Last updated:** 22 Sep 2026  
 > **Currency:** IDR (Indonesian Rupiah)
 
 ---
@@ -45,6 +45,8 @@
 |---|---|
 | 0.1140601 | **200,256** |
 
+> 💵 **Dividend:** 22 Sep 2026 — IDR 1,416 received
+
 ---
 
 ### **NVDA** — NVIDIA Corporation
@@ -84,6 +86,6 @@
 | Metric | Value |
 |--------|-------|
 | **Total Invested (incl. fees)** | **6,933,049** |
-| **Total Dividends Received** | 3,204 |
+| **Total Dividends Received** | 4,796 |
 | **Total Transaction Fees** | 23,763 |
 | **Total Holdings** | 5 |
