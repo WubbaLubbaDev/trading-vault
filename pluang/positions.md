@@ -34,3 +34,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 2 | **$184.52** | **$92.26** |
+
+### **QCOM** — Qualcomm Incorporated
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-10-01 | 1 | $184.00 | $184.00 | $0.37 | $0.15 | $184.52 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 1 | **$184.52** | **$184.52** |
