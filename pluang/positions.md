@@ -44,3 +44,13 @@
 | **Total Shares** | **Total Cost** | **Avg Cost/Share** |
 |---|---|---|
 | 1 | **$184.52** | **$184.52** |
+
+### **DBA** — Invesco DB Agriculture Fund
+
+| # | Date | Shares | Avg Price (USD) | Cost Basis | Fee | Tax | Total Cost |
+|---|------|--------|-----------------|------------|-----|-----|------------|
+| 1 | 2026-10-01 | 5 | $28.00 | $140.00 | $0.28 | $0.12 | $140.40 |
+
+| **Total Shares** | **Total Cost** | **Avg Cost/Share** |
+|---|---|---|
+| 5 | **$140.40** | **$28.08** |
